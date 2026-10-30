@@ -1,3 +1,5 @@
+# KR2: <Лавренов>
+
 import os
 import socket
 
